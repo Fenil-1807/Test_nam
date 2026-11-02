@@ -1,0 +1,11 @@
+{
+  "name": "ci-failure-test",
+  "version": "1.0.0",
+  "description": "Testing self-healing CI/CD pipeline",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
